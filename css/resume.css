@@ -1,0 +1,72 @@
+.resume{
+	width: 860px;
+	height: 100%;
+	background-color:rgba(0, 27, 38, 0.4);
+	margin:0 auto;
+	margin-top:90px;
+	padding-top:5px;
+    padding-left: 50px;
+	border-radius: 15px;
+	color: white;
+	font-weight:bolder;
+
+
+}
+.resume input[type="text"]{
+	width:200px;
+	height: 25px;
+	border:0;
+	border-radius:8px;
+}
+.resume input[type="email"]{
+	width:200px;
+	height: 25px;
+	border:0;
+	border-radius:8px;
+}
+.resume input[type="url"]{
+	width:200px;
+	height: 25px;
+	border:0;
+	border-radius:8px;
+}
+.resume input[type="tel"]{
+	width:200px;
+	height: 25px;
+	border:0;
+	border-radius:8px;
+}
+.resume input[type="submit"]{
+	width:100px;
+	height:35px;
+	border:0;
+	border-radius:8px;
+	background-color:#3DACCB;
+	font-weight:bolder;
+	color:#E8F0F3;
+}
+h2{
+	text-align:center;
+}
+#other{
+	width:200px;
+	height: 80px;
+	border:0;
+	border-radius:8px;
+}
+#hov:hover{
+	background-color:black;
+}
+
+#preview{
+	width:100px;
+	height:25;
+}
+.resume input[type=file]{
+	padding:10px;
+	width:200px;
+	height: 80px;
+	border:0;
+	border-radius:8px;
+}
+

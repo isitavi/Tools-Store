@@ -1,0 +1,52 @@
+
+.prof_box{
+	text-align:center;
+	width: 400px;
+	height: 519px;
+	background: rgba(0,0,0,0.4);
+	padding: 50px;
+	color: white;
+	margin-top: 68px;
+	margin-left: 125px;
+}
+
+.prof_box2{
+	text-align:center;
+	width: 400px;
+	height: 519px;
+	background: rgba(0,0,0,0.4);
+	padding: 50px;
+	color: white;
+	margin-left: 700px;
+	margin-top:-619px;
+}
+.prof_pic{
+
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+.prof_pic2{
+
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+
+p{
+	font-weight: 100;
+	color: #a1cdde;
+
+}
+.social-icons{
+	font-size: 25;
+}
+.social-icons a{
+
+	color: white;
+}
+.line-break{
+	width: 350px;
+	border-top: 2px solid white;
+	margin:0 auto;
+}

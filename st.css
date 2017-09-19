@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Oswald:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+body{
+	margin:0;
+}
+header{
+	background: black;
+	color: white;
+	padding: 6px 0px 6px 8px;
+	height: 50px;
+}
+header h1{
+	display: inline-block;
+	font-family: 'Oswald', sans-serif;
+    font-family: 'Abril Fatface', cursive;
+	font-size: 40px;
+	font-weight: 500;
+	float: left;
+	margin-top: 0px;
+	margin-right: 5px;
+
+}
+nav ul{
+	display: inline;
+	padding: 0px;
+	float: right;
+}
+nav ul li{
+	display: inline-block;
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-right: 15px;
+}
+nav ul li a{
+	color: white;
+	text-decoration: none;
+
+}
+#nav{
+	font-family: 'Montserrat', sans-serif;
+}
+.homered{
+	background-color: red;
+	padding: 30px 10px 21px 10px;
+}
+.divider{
+	background-color: red;
+	height: 8px;
+}
+.homeblack:hover {
+	background-color: blue;
+	padding: 30px 10px 21px 10px;
+}
+.image1{
+	margin-top: 170px;
+	background-image: url(11.png) ;
+	height:89%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0%;
+	padding: 0%;
+	
+}
+.homesub{
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+	padding: 10% 15% 0% 60%;
+	font-size: 20px;
+	color: yellow;
+}
+.homename1{
+	font-family: 'Raleway', sans-serif;
+	margin: 0.5% 0% 0% 60%;
+	font-size: 35px;
+	color: white;
+	background-color:rgba(0,0,0,0.5);
+	display: inline-block;
+}
+.homename2{
+	font-family: 'Oswald', sans-serif;
+	margin: 0.5% 0% 0% 60%;
+	font-size: 35px;
+	color: black;
+	display: inline-block;
+}
+.buttonhome{
+	margin: 0% 0% 0% 60%;
+	background: yellow;
+	color: black;
+	border: none;
+	height: 30px;
+	font-size: 1.1em;
+	padding: 0.1em;
+	cursor: pointer;
+	outline: none;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+	list-style-type: none;
+	}
+.buttonhome li a{
+	
+	text-decoration: none;
+
+}
